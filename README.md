@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anshoolnaik
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ...
+  
 - 
 - 📫 How to reach me naikanshool20@gmail.com
 - 
