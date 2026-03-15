@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**Anshoolnaik/Anshoolnaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...# 💫 About Me:
+# 💫 About Me:
 Hi, I'm Anshool Naik.<br><br>I'm a software developer who enjoys building useful and practical digital products. I like working on web applications, automation tools, and AI-powered solutions that solve real-world problems.<br><br>I’m always interested in learning new technologies, improving my development skills, and creating impactful software. I also run a small remote software development team where we work on different projects across various domains.<br><br>Thanks for visiting my profile.<br>
 
 
@@ -32,3 +21,4 @@ Hi, I'm Anshool Naik.<br><br>I'm a software developer who enjoys building useful
 ---
 [![](https://visitcount.itsvg.in/api?id=Anshoolnaik&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
